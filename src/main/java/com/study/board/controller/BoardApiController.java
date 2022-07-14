@@ -6,9 +6,6 @@ import com.study.board.model.BoardService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
-import com.study.exception.CustomException;
-import com.study.exception.ErrorCode;
-
 import java.util.List;
 
 @RestController
